@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Helmet', 'No-Helmet']
+
+roboflow:
+  workspace: helmet-detection-aoadl
+  project: helme-glevh
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/helmet-detection-aoadl/helme-glevh/dataset/1

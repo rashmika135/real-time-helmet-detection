@@ -13,3 +13,9 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Dataset files
+data/train/
+data/valid/
+data/test/
+data/*.zip
