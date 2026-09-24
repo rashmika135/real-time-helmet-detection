@@ -19,3 +19,9 @@ data/train/
 data/valid/
 data/test/
 data/*.zip
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
