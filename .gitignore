@@ -19,7 +19,7 @@ data/train/
 data/valid/
 data/test/
 data/*.zip
-
+data/video/
 # YOLO training outputs
 runs/
 
